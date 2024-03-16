@@ -11,7 +11,7 @@ interface Size {
 }
 
 interface Product {
-  articul: string;
+  articul: string | number;
   title: string;
   image: string;
   cost: string;

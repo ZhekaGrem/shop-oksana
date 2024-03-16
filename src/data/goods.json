@@ -1,33 +1,33 @@
 [
     {
-        "articul": "1",
+        "articul": 1,
         "title": "top1",
         "cost": "800",
         "image": "/shirt/1.png",
         "size": [
             {
                 "name": "xs",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "x",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "l",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "m",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xl",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xxl",
-                "item": "1"
+                "item": 1
             }
         ],
         "color": "black",
@@ -41,27 +41,27 @@
         "size": [
             {
                 "name": "xs",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "x",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "l",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "m",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xl",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xxl",
-                "item": "1"
+                "item": 1
             }
         ],
         "color": "gray",
@@ -75,27 +75,27 @@
         "size": [
             {
                 "name": "xs",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "x",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "l",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "m",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xl",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xxl",
-                "item": "1"
+                "item": 1
             }
         ],
         "color": "white",
@@ -109,27 +109,27 @@
         "size": [
             {
                 "name": "xs",
-                "item": "0"
+                "item": 0
             },
             {
                 "name": "x",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "l",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "m",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xl",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xxl",
-                "item": "1"
+                "item": 1
             }
         ],
         "color": "white",
@@ -143,27 +143,27 @@
         "size": [
             {
                 "name": "xs",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "x",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "l",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "m",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xl",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xxl",
-                "item": "1"
+                "item": 1
             }
         ],
         "color": "white",
@@ -177,27 +177,27 @@
         "size": [
             {
                 "name": "xs",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "x",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "l",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "m",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xl",
-                "item": "1"
+                "item": 1
             },
             {
                 "name": "xxl",
-                "item": "1"
+                "item": 1
             }
         ],
         "color": "white",
