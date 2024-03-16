@@ -1,0 +1,67 @@
+.carousel{
+    background-color: black;
+    display: grid;
+    grid-auto-flow: column;
+   }
+
+
+.mediaElement{
+    justify-content: center;
+    grid-auto-columns: 1fr;
+}
+
+.mediaContainer:hover> .cardOptions{
+    opacity: 1;
+    transform: translateY(-10px);
+}
+
+.cardContent{
+    padding: 10px;
+    text-align: center;
+}
+
+.cardOptions{
+    opacity: 0;
+    position: relative;
+    top: -20px;
+    flex-wrap: nowrap;
+    justify-content: center;
+    display: flex;
+    will-change: transform, opacity;
+    transition: opacity 0.3s cubic-bezier(0.645,0.045,0.355,1) 0.1s, transform 0.3s cubic-bezier(0.645,0.045,0.355,1) 0.1s;
+}
+
+.cardOption:hover{
+    cursor: pointer;
+}
+.cardOption:hover:after {
+    width: 100%;
+}
+
+.cardOption:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background-color: #ededed;
+    transition: width 0.3s cubic-bezier(0.645,0.045,0.355,1);
+}
+
+.cardOption{
+    position: relative;
+    padding: 5px;
+}
+
+.mediaImg{
+    
+    object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
+.cardOption.disabled {
+    pointer-events: none;
+    opacity: 0.2;
+  }

@@ -1,0 +1,206 @@
+[
+    {
+        "articul": "1",
+        "title": "top1",
+        "cost": "800",
+        "image": "/shirt/1.png",
+        "size": [
+            {
+                "name": "xs",
+                "item": "1"
+            },
+            {
+                "name": "x",
+                "item": "1"
+            },
+            {
+                "name": "l",
+                "item": "1"
+            },
+            {
+                "name": "m",
+                "item": "1"
+            },
+            {
+                "name": "xl",
+                "item": "1"
+            },
+            {
+                "name": "xxl",
+                "item": "1"
+            }
+        ],
+        "color": "black",
+        "type": "shirt"
+    },
+    {
+        "articul": "2",
+        "title": "top2",
+        "cost": "800",
+        "image": "/shirt/2.png",
+        "size": [
+            {
+                "name": "xs",
+                "item": "1"
+            },
+            {
+                "name": "x",
+                "item": "1"
+            },
+            {
+                "name": "l",
+                "item": "1"
+            },
+            {
+                "name": "m",
+                "item": "1"
+            },
+            {
+                "name": "xl",
+                "item": "1"
+            },
+            {
+                "name": "xxl",
+                "item": "1"
+            }
+        ],
+        "color": "gray",
+        "type": "shirt"
+    },
+    {
+        "articul": "3",
+        "title": "top3",
+        "cost": "800",
+        "image": "/shirt/3.png",
+        "size": [
+            {
+                "name": "xs",
+                "item": "1"
+            },
+            {
+                "name": "x",
+                "item": "1"
+            },
+            {
+                "name": "l",
+                "item": "1"
+            },
+            {
+                "name": "m",
+                "item": "1"
+            },
+            {
+                "name": "xl",
+                "item": "1"
+            },
+            {
+                "name": "xxl",
+                "item": "1"
+            }
+        ],
+        "color": "white",
+        "type": "shirt"
+    },
+    {
+        "articul": "4",
+        "title": "top4",
+        "cost": "800",
+        "image": "/shirt/4.png",
+        "size": [
+            {
+                "name": "xs",
+                "item": "0"
+            },
+            {
+                "name": "x",
+                "item": "1"
+            },
+            {
+                "name": "l",
+                "item": "1"
+            },
+            {
+                "name": "m",
+                "item": "1"
+            },
+            {
+                "name": "xl",
+                "item": "1"
+            },
+            {
+                "name": "xxl",
+                "item": "1"
+            }
+        ],
+        "color": "white",
+        "type": "shirt"
+    },
+    {
+        "articul": "7",
+        "title": "top4",
+        "cost": "800",
+        "image": "/shirt/4.png",
+        "size": [
+            {
+                "name": "xs",
+                "item": "1"
+            },
+            {
+                "name": "x",
+                "item": "1"
+            },
+            {
+                "name": "l",
+                "item": "1"
+            },
+            {
+                "name": "m",
+                "item": "1"
+            },
+            {
+                "name": "xl",
+                "item": "1"
+            },
+            {
+                "name": "xxl",
+                "item": "1"
+            }
+        ],
+        "color": "white",
+        "type": "shirt"
+    },
+    {
+        "articul": "5",
+        "title": "top5",
+        "cost": "800",
+        "image": "/shirt/4.png",
+        "size": [
+            {
+                "name": "xs",
+                "item": "1"
+            },
+            {
+                "name": "x",
+                "item": "1"
+            },
+            {
+                "name": "l",
+                "item": "1"
+            },
+            {
+                "name": "m",
+                "item": "1"
+            },
+            {
+                "name": "xl",
+                "item": "1"
+            },
+            {
+                "name": "xxl",
+                "item": "1"
+            }
+        ],
+        "color": "white",
+        "type": "shirt"
+    }
+]
