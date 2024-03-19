@@ -25,7 +25,7 @@ const Header: React.FC = () => {
               <Link href="/">BRANDS</Link>
             </li>
             <li className={styles.navInnerLink}>
-              <Link href="/">SHOP</Link>
+              <Link href="/shop">SHOP</Link>
             </li>
             <li className={styles.navInnerLink}>
               <Link href="/" >

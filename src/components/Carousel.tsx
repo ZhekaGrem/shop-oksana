@@ -27,9 +27,9 @@ const CarouselComponent: React.FC<{ data: Product[] }> = ({ data }) => {
             <Image className={styles.mediaImg} width={200} height={300} src={product.image} alt={product.title} />
             
           </div>
-          <ul className={styles.cardOptions} >
+          <ul className={styles.sizesList} >
               {product.size.map((item, idx) => (
-                <li className={`${styles.cardOption} ${item.item <= 0 ? styles.disabled : ''}`}  key={idx}>{item.name}</li>
+                <li className={`${styles.sizeOption} ${item.item <= 0 ? styles.disabled : ''}`}  key={idx}>{item.name}</li>
               ))}
             </ul>
           <div className={styles.cardContent}>

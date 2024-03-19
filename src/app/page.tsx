@@ -1,6 +1,7 @@
 import styles from "./page.module.css";
 import CarouselComponent from "@/components/Carousel";
 import data from "@/data/goods.json";
+import Button from "@/ui/Button";
 
 export default function Home() {
   return (
@@ -14,7 +15,7 @@ export default function Home() {
           <p>Ніжна оксана</p>
           <p>нові речі</p>
         </div>
-        <div><button>EXPLORE NOW</button></div>
+        <div><Button></Button></div>
       </div>
       </section>
         
@@ -24,7 +25,7 @@ export default function Home() {
           <p>Ніжна оксана</p>
           <p>нові речі</p>
         </div>
-        <div><button>EXPLORE NOW</button></div>
+        <div><Button/></div>
       </div></section>
      
        <CarouselComponent data={data}/>
@@ -36,7 +37,7 @@ export default function Home() {
           <p>Ніжна оксана</p>
           <p>нові речі</p>
         </div>
-        <div><button>EXPLORE NOW</button></div>
+        <div><Button></Button></div>
       </div></section>
       {/* <section className={`${styles.block, styles.img2}`} >12</section>
       <section className={`${styles.block, styles.img2}`} >12</section> */}
