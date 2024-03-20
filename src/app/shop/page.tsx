@@ -1,7 +1,7 @@
 import styles from './shop.module.css';
 import data from '@/data/goods.json';
 import Image from 'next/image';
-import Product  from '@/ui/product';
+import Product  from '@/ui/Product';
 
 
 interface Size {
